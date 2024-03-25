@@ -186,7 +186,7 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] != true) {
                 <h3>contact info</h3>
                 <a href="#"><i class="fas fa-phone"></i> +123-456-7890</a>
                 <a href="#"><i class="fas fa-phone"></i> +111-222-333</a>
-                <a href="#"><i class="fas fa-envelope"></i> gos067109@gmail.com</a>
+                <a href="#"><i class="fas fa-envelope"></i> jjting247@gmail.com</a>
                 <a href="#"><i class="fas fa-map"></i> Lucknow, India</a>
             </div>
 
