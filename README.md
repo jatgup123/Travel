@@ -20,9 +20,9 @@ HTML, CSS, JAVA SCRIPT, BOOTSTRAP
 PHP, My SQL
 
 ## Description
-A web application that enables users to make online booking of the various tour destination alongwith accessing the map location of that point which will help them in making the guidance throghout the journey alongwith this they are able to make booking of the packages online by entering the details.
+A web application that enables users to explore and make online booking of the various tour destination alongwith accessing the map location of that point which will help them in making the guidance throghout the journey alongwith this they are able to make booking of the packages online by entering the details. Users are allowed to make registration before using the application as it is completely secure often an password hashing method has been used in this so no need to worry related to the security. 
 
 ## Acknowledgements
-I would like to express my special thanks of gratitude to the unstop HEREvolution Codefest Hackathon in properly guidance and support in completing my Project.
+I would like to express my special thanks of gratitude to the unstop HEREvolution Codefest Hackathon in properly providing the information about the process of the event  and support in completing my Project.
 
 I would also like to extend my gratitude to my group member Vimal for providing me with all the facility that was required
