@@ -1,0 +1,85 @@
+editorVersion: 1.6.0
+schemeVersion: 1.6.0
+base:
+  style: oslo
+  scheme: normal.day
+definitions:
+  Street.Category4.RestrictedAccess.Color:
+    - interpolate
+    - - linear
+    - - zoom
+    - 15
+    - '#98A5B8'
+    - 15.5
+    - '#919BA9'
+    - 16
+    - '#DBE6F7'
+  Water.Outline.Color: '#37ADEB'
+  Traffic.Flow.Free.Color: '#24EB68'
+  Beach.Color:
+    - interpolate
+    - - linear
+    - - zoom
+    - 9
+    - '#04082D'
+    - 11
+    - '#040527'
+    - 13
+    - '#08092D'
+  Desert.Color:
+    - interpolate
+    - - linear
+    - - zoom
+    - 6
+    - '#F7D242'
+    - 10
+    - '#FFDB4E'
+  Glacier.Color:
+    - interpolate
+    - - linear
+    - - zoom
+    - 10
+    - '#06253B'
+    - 16
+    - '#E8F4FF'
+  Street.Category0.Outline.Color:
+    - interpolate
+    - - linear
+    - - zoom
+    - 6
+    - '#000000'
+    - 8
+    - '#000000'
+    - 10
+    - '#080808'
+    - 13
+    - '#5C6E8A'
+    - 16
+    - '#5C6E8A'
+  Traffic.Flow.StationaryQueuing.Color: '#171414'
+  Woodland.Color:
+    - interpolate
+    - - linear
+    - - zoom
+    - 8
+    - '#66AF8C'
+    - 15
+    - '#77C09D'
+  Street.Category0.Color:
+    - interpolate
+    - - linear
+    - - zoom
+    - 5.8
+    - '#626366'
+    - 7.8
+    - '#808080'
+    - 10.9
+    - '#6B6B6B'
+    - 12.9
+    - '#6B6B6B'
+    - 13
+    - '#797979'
+    - 16
+    - '#B1C4DC'
+  CongestionZone.Opacity: 1
+  EnvironmentalZone.Opacity: 1
